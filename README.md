@@ -1,1 +1,5 @@
-# hangman-game
+This is my solution to the hangman game assignment for the course CS 106A (Stanford).
+
+Assignment handout: http://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/handouts/200%20Assignment%204.pdf
+
+
